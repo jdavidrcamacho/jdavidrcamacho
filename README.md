@@ -1,15 +1,18 @@
 👋 Hi, I’m @jdavidrcamacho better known as Camacho. Welcome to my profile! Here are some stats on what I do on Github
 
 <a href="https://github.com/jdavidrcamacho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdavidrcamacho&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdavidrcamacho&theme=radical" />
 </a>
 <a href="https://github.com/jdavidrcamacho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdavidrcamacho&layout=compact&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdavidrcamacho&layout=compact&theme=radical" />
 </a>
 
 <!---
 [![Camacho's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdavidrcamacho&show_icons=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdavidrcamacho&layout=compact&show_icons=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)

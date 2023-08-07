@@ -24,7 +24,7 @@ As an astronomer I have a wide experience on python and C++ while also learning 
 
 If you wish to know a bit more about me feel free to check my works [here](https://scholar.google.com/citations?user=siFDifoAAAAJ) or [here](https://oeis.org/A308619)!
 
-👉🏼 What to contact? Then is best to connect with me on [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-camacho-phd-83a97b104/) .
+👉🏼 Want to contact me? Then is best to connect with me on [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-camacho-phd-83a97b104/) .
 
 <!---
 jdavidrcamacho/jdavidrcamacho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

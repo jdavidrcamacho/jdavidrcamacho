@@ -20,7 +20,7 @@
 
 ---
 
-As an astronomer and a data scientist I have a wide experience on python while also learning C++ and COBOL for fun.
+As an astronomer I have a wide experience on python and C++ while also learning ruby, julia and COBOL for fun.
 
 👉🏼 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-camacho-phd-83a97b104/) .
 
